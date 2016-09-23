@@ -1,8 +1,11 @@
 logs
 target
+libexec
 /.idea
 /.idea_modules
 /.classpath
 /.project
 /.settings
 /RUNNING_PID
+.DSStore
+.sbtserver

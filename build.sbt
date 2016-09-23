@@ -1,4 +1,4 @@
-name := """justplay"""
+name := """play-scala"""
 
 version := "1.0-SNAPSHOT"
 
@@ -13,3 +13,6 @@ libraryDependencies ++= Seq(
   "org.scalatestplus.play" %% "scalatestplus-play" % "1.5.1" % Test
 )
 
+
+
+fork in run := true
